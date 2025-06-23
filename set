@@ -1,0 +1,12 @@
+set1 = {"adi", "sahil", "ritesh","om"}
+set2 = {"isha", "sachin", "om"}
+
+print(set1.intersection(set2))
+print(set1.difference(set2))
+print(set1.union(set2))
+
+
+# op
+# {'om'}
+# {'adi', 'sahil', 'ritesh'}
+# {'sachin', 'adi', 'sahil', 'isha', 'om', 'ritesh'}
