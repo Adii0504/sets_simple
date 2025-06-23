@@ -1,0 +1,11 @@
+create empty list
+lst = []
+lst = list()      
+
+create empty tuple
+tup = ()
+tup = tuple()
+
+create empty set 
+set = {}        #cant be created it create dictionary
+set = set()
